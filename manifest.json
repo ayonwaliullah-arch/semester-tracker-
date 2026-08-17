@@ -1,11 +1,11 @@
 {
-  "background_color": "#ffffff",
+"background_color": "#0c2733",
   "dir": "ltr",
   "display": "standalone",
-  "name": "moonlit-lamington-db26a1.netlify",
+  "name": "Semester-Tracker",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Semester Tracker",
+  "short_name": "Semester-Tracker",
   "start_url": "/",
-  "theme_color": "rgb(12, 39, 51)"
+  "theme_color": "#0c2733"
 }
