@@ -1,0 +1,24 @@
+{
+  "background_color": "#0c2733",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Semester Tracker",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Semester Tracker",
+  "start_url": "/",
+  "theme_color": "#0c2733",
+  "description": "Track your semester topics course by course",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}3
