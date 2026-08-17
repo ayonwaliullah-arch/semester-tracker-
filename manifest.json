@@ -8,4 +8,16 @@
   "short_name": "Semester-Tracker",
   "start_url": "/",
   "theme_color": "#0c2733"
+  "icons": [
+  {
+    "src": "/icon-192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  },
+  {
+    "src": "/icon-512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }
+]
 }
